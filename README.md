@@ -11,28 +11,31 @@ Matrícula: 2007612
 ## Tabla de contenidos
 1. [Manejo de APIs](#manejo-de-apis): uso de APIs a través de requests HTTP
 2. [Scripting en Powershell](#scripting-en-powershell): conceptos básicos de sintáxis del lenguaje PowerShell
-3. [Scripting en Bash](#scripting-en-bash): fundamentos del uso de Bourne Again Shell
-4. [Encoding y Decoding](#encoding-y-decoding): uso de codificación para el transporte de datos
-5. [Webscraping](#webscraping): extracción de información de sitios web
-6. [Nmap](#nmap): análisis de la topología de redes locales usando Nmap
-7. [FTP](#ftp): estructura de una sesión FTP
+3. [Scripting en Bash](#scripting-en-bash): fundamentos del uso de Bourne Again Shell (BASH)
+4. [Encoding y Decoding](#encoding-y-decoding): uso de codificación para el transporte de datos en Python y PowerShell
+5. [Webscraping](#webscraping): extracción de información de sitios web con Python
+6. [Nmap](#nmap): análisis de la topología de redes locales usando Nmap con BASH
+7. [FTP](#ftp): análisis de la estructura de una sesión FTP
 8. [Escaneo de Puertos](#escaneo-de-puertos): obtención de detalles de los servicios ofrecidos por los dispositivos dentro de la red local
-9. [Automatización de Tareas](#automatización-de-tareas): agendado de tareas con BASH y PowerShell
+9. [Envío de correos](#envío-de-correos): uso del protocolo SMTP con Python para el envío de correos electrónicos
+10. [Automatización de Tareas](#automatización-de-tareas): agendado de tareas con BASH y PowerShell
 
-## Manejo de APIs
+## [Manejo de APIs](./1_Manejo_APIS/)
 
-## Scripting en Powershell
+## [Scripting en Powershell](./2_Scripting_PowerShell/)
 
-## Scripting en Bash
+## [Scripting en Bash](./3_Scripting_Bash/)
 
-## Encoding y Decoding
+## [Encoding y Decoding](./4_Encoding_Decoding/)
 
-## Webscraping
+## [Webscraping](./5_Webscraping/)
 
-## Nmap
+## [Nmap](./6_Nmap/)
 
-## FTP
+## [FTP](./7_FTP/)
 
-## Escaneo de Puertos
+## [Escaneo de Puertos](./8_Escaneo_Puertos/)
 
-## Automatización de Tareas
+## [Envío de correos](./9_Envio_Correos/)
+
+## [Automatización de Tareas](./10_Automatizacion_Tareas/)
