@@ -4,7 +4,7 @@
 Este repositorio consiste de un archivo que contiene algunos de los scripts realizados a lo largo de la unidad de aprendizaje 'Laboratorio de Programación para Ciberseguridad'.
 
 ## Datos del autor:
-Nombre: Juan Garza
+Nombre: Juan Ángel Garza Castillo
 
 Matrícula: 2007612
 
